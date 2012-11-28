@@ -26,8 +26,8 @@ package
 		{
 			format = new TextFormat();
 			format.font = "Arial";
-            format.color = color;
-            format.size = size;
+            		format.color = color;
+           		 format.size = size;
 			format.align = "left";
 			format.bold = bold;
 			
